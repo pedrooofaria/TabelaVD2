@@ -1,0 +1,116 @@
+.qv-object-TabelaVD2 div.qv-object-content-container {
+	overflow: auto;
+}
+
+h3 {
+	font-size: 18px;
+}
+
+.qv-object-title-text {color: #4477aa; font-weight: 900 !important;font-size: 16px; padding-left: 6px;}
+
+.qv-object-header {padding-bottom: 6px;}
+
+.qv-object-TabelaVD2 table {
+	border: 2px solid black;
+}
+
+
+.qv-object-TabelaVD2 th.titulo-total {
+	background-color: #ffffff;
+	color: #4477aa;
+	font-weight: bold;
+	padding: 0px;
+	text-align: left;
+	border: 2px solid black;
+	padding: 3px 6px 3px 6px;
+}
+.qv-object-TabelaVD2 th.total {
+	background-color: #ffffff;
+	color: #4477aa;
+	font-weight: bold;
+	padding: 0px;
+	text-align: right;
+	border: 2px solid black;
+	padding: 3px 6px 3px 6px;
+}
+
+.qv-object-TabelaVD2 th.dep {
+	background-color: #dcdcdc;
+	color: black;
+	font-weight: bold;
+	padding: 9px;
+	text-align: center;
+	border: 2px solid black;
+}
+.qv-object-TabelaVD2 button {
+	width: 100%;
+}
+.qv-object-TabelaVD2 th.ven{
+	background-color: #4472c4;
+	color: white;
+	padding-top: 3px;
+	border: 2px solid black;
+}
+.qv-object-TabelaVD2 th.ton{
+	background-color: #C00000;
+	color: white;
+	padding-top: 3px;
+	border: 2px solid black;
+}
+.qv-object-TabelaVD2 th.rec {
+	background-color: #70ad47;
+	color: white;
+	padding-top: 3px;
+	border: 2px solid black;
+}
+.qv-object-TabelaVD2 th.mc {
+	background-color: #ffc000;
+	color: white;
+	padding-top: 3px;
+	border: 2px solid black;
+}
+.qv-object-TabelaVD2 th.cob {
+	background-color: #ed7d31;
+	color: white;
+	padding-top: 3px;
+	border: 2px solid black;
+}
+
+.qv-object-TabelaVD2 td,
+.qv-object-TabelaVD2 th {
+	border-top: 0px solid #fff;
+	border-bottom: 1px solid #ddd;
+	border-right: 1px solid #ddd;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	vertical-align: middle;
+	cursor: default;
+	font-size: 12px;
+	padding: 3px 6px 3px 6px;
+}
+.qv-object-TabelaVD2 button {
+	width: 100%;
+}
+
+
+//row
+.qv-object-TabelaVD2 td.string-branco {
+	color: black;
+	font-weight: bold;
+	background-color: #ffffff;
+}
+.qv-object-TabelaVD2 td.string-cinza {
+	color: black;
+	background-color: #ededed;
+}
+.qv-object-TabelaVD2 td.numeric-branco {
+	color: black;
+	background-color: #ffffff;
+	text-align: right;
+}
+.qv-object-TabelaVD2 td.numeric-cinza {
+	color: black;
+	background-color: #ededed;
+	text-align: right;
+}
